@@ -1,4 +1,4 @@
-# CURSO IGAC - Unidad 3. Introducción Machine learning - Curso Introducción Python -IGAC
+# CURSO IGAC - Unidad 3. Introducción Machine learning - Curso Introducción Python
 
 
 
