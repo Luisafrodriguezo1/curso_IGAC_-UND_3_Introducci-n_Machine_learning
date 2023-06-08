@@ -1,5 +1,5 @@
-# curso_IGAC_-UND_3_Introducci-n_Machine_learning
-Unidad 3. Introducción Machine learning - Curso Introducción Python -IGAC
+# CURSO IGAC - Unidad 3. Introducción Machine learning - Curso Introducción Python -IGAC
+
 
 
 Exploraremos una introducción al Machine Learning y abordaremos los siguientes temas: 
